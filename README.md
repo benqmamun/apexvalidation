@@ -2,7 +2,7 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://i9.ytimg.com/vi_webp/HTaFS1IxgxE/mqdefault.webp?v=628f9c82&sqp=CMTVoZYG&rs=AOn4CLAC7omjc1ehZm8mTyQWv5yEmAZDQA)
 
-Live tutorial on YouTube [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>]([https://www.youtube.com/watch?v=HTaFS1IxgxE&t](https://youtu.be/MgIcqiPPCMc))  
+Live tutorial on YouTube [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/watch?v=MgIcqiPPCMc)  
 
 
 This code snippet is written in JavaScript for an Oracle APEX application and is used to validate a specific field (P2_ENAME) and manage user interactions with other fields. Here's a detailed explanation of each part:
